@@ -41,7 +41,6 @@ void getFactors(long int num)
 			}
 		}
 	}
-	printf("%ld can't be factored into two prime nums!\n", num);
 }
 
 /**
